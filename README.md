@@ -1,5 +1,5 @@
 # music_player
-This is music player website design <br>
+This is a music player website design. The design used is the Neumorphism style. It is all about the color of the entire screen and delivering an entirely out-of-the-box experience for users. It will give a decent and unique look. <br>
 Make is using Javascript <br>
 For Preview : https://fransalfiando24.github.io/music_player/
 
